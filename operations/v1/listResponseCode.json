@@ -1,0 +1,37 @@
+{
+    "error": [
+        { "status_code": "ERR000", "message": "Erro não traduzido" },
+        { "status_code": "ERR001", "message": "Centro não informado" },
+        { "status_code": "ERR002", "message": "Usuário já cadastrado" },
+        { "status_code": "ERR003", "message": "Usuário não cadastrado" },
+        { "status_code": "ERR004", "message": "Usuário ou senha inválidos" },
+        { "status_code": "ERR005", "message": "Token de autenticação não enviado" },
+        { "status_code": "ERR006", "message": "Login de autenticação não enviado" },
+        { "status_code": "ERR007", "message": "Senha de autenticação não enviado" },
+        { "status_code": "ERR008", "message": "Produto não cadastrado" },
+        { "status_code": "ERR009", "message": "Nenhuma Auditoria iniciada" },
+        { "status_code": "ERR010", "message": "Produto já coletado" },
+        { "status_code": "ERR011", "message": "Código EAN não informado" },
+        { "status_code": "ERR012", "message": "Código de centro não informado" },
+        { "status_code": "ERR013", "message": "Login não informado" },
+        { "status_code": "ERR014", "message": "Nenhuma permissão localizada" },
+        { "status_code": "ERR015", "message": "Existem usuários vinculados a permissão" },
+        { "status_code": "ERR016", "message": "Tipo de Auditoria e Categoria incorretos" },
+        { "status_code": "ERR017", "message": "Nenhum material localizado" },
+        { "status_code": "ERR404", "message": "Nenhum valor encontrado" }
+    ],
+    "success": [
+        { "status_code": "SUS001", "message": "Usuário cadastrado, senha: " },
+        { "status_code": "SUS002", "message": "Centro alterado com sucesso" },
+        { "status_code": "SUS003", "message": "Status alterado com sucesso" },
+        { "status_code": "SUS004", "message": "Usuário OK" },
+        { "status_code": "SUS005", "message": "Coletado com sucesso" },
+        { "status_code": "SUS006", "message": "Usuário atualizado com sucesso" },
+        { "status_code": "SUS007", "message": "Permissão cadastrada com sucesso" },
+        { "status_code": "SUS008", "message": "Permissão atualizada com sucesso" },
+        { "status_code": "SUS009", "message": "Permissão excluída com sucesso" },
+        { "status_code": "SUS010", "message": "Auditoria cadastrada com sucesso" },
+        { "status_code": "SUS011", "message": "Auditoria atualizada com sucesso" },
+        { "status_code": "SUS012", "message": "Auditoria finalizada com sucesso" }
+    ]
+}
